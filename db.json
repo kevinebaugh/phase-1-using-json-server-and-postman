@@ -1,0 +1,114 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!!",
+      "id": 4
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!!",
+      "id": 5
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!!",
+      "id": 6
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 7
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 8
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 9
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 10
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 11
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 12
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 13
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 14
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 15
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 16
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 17
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 18
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 19
+    },
+    {
+      "title": "Another article",
+      "content": "So many articles!",
+      "id": 20
+    }
+  ],
+  "pets": [
+    {
+      "name": "Rawley",
+      "type": "dog"
+    },
+    {
+      "name": "Banks",
+      "type": "cat"
+    }
+  ]
+}
